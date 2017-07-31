@@ -17,6 +17,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Sim recents -->
-  <string name="recents_multiwin_nolastapp">Anda menghapus semua recent, silakan pilih aplikasi dari peluncur atau kotak.</string>
-  <string name="recents_killapp_warning">Silakan tekan lama untuk menutup aplikasi</string>
+  <string name="recents_multiwin_nolastapp">Tidak ada aplikasi terbaru, buka satu</string>
+  <string name="recents_killapp_warning">Tekan lama untuk menutup aplikasi</string>
 </resources>
